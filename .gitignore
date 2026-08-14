@@ -1,0 +1,6 @@
+.env
+.embed_cache/
+.env
+.embed_cache/
+__pycache__/
+docs/design.md
